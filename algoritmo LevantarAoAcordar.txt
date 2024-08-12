@@ -1,0 +1,18 @@
+algoritmo "LevantarAoAcordar"
+var
+    // Declarar variáveis, se necessário
+inicio
+    // Passo 1: Acordar
+    escreva("Despertar com o som do despertador ou luz natural.")
+    // Passo 2: Despertar completamente
+    escreva("Esticar os braços e pernas para acordar completamente.")
+    escreva("Fazer uma respiração profunda para ajudar a acordar.")
+    // Passo 3: Levantar da cama
+    escreva("Colocar os pés no chão e levantar-se da cama.")
+    escreva("Ajustar a postura e equilibrar-se antes de andar.")
+    // Passo 4: Realizar higiene pessoal
+    escreva("Ir ao banheiro e realizar higiene pessoal: escovar os dentes, lavar o rosto, etc.")
+    // Passo 5: Preparar-se para o dia
+    escreva("Vestir roupas adequadas para o dia.")
+    escreva("Preparar café da manhã ou refeição matinal.")
+fim
