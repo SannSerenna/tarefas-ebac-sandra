@@ -16,3 +16,27 @@ inicio
     escreva("Vestir roupas adequadas para o dia.")
     escreva("Preparar café da manhã ou refeição matinal.")
 fim
+
+
+# Algoritmo - Levantar ao Acordar ⏰
+
+Este arquivo contém um algoritmo escrito em pseudocódigo que descreve os passos para **levantar-se ao acordar**, desenvolvido como parte das atividades do curso de Java Backend da EBAC.
+
+## Objetivo
+
+- Representar uma rotina matinal em forma de algoritmo.
+- Praticar a lógica sequencial e o uso de comandos como `escreva`.
+- Compreender a estrutura básica de um pseudocódigo.
+
+## Estrutura do Algoritmo
+
+- Declaração de variáveis (opcional).
+- Passos sequenciais como:
+  - Despertar com som ou luz natural.
+  - Esticar o corpo e respirar fundo.
+  - Levantar da cama com equilíbrio.
+  - Realizar higiene pessoal.
+  - Preparar-se para o dia com roupas e café da manhã.
+
+## Exemplo de Trecho
+
