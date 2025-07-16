@@ -3,3 +3,24 @@ public class PrimeiraClasse {
         System.out.print("Hello Sandra ");
     }
 }
+
+
+# Primeiro Projeto Java 🎉
+
+Este arquivo representa um dos primeiros exercícios do curso de Java Backend da EBAC. O objetivo é criar uma classe Java simples que imprime uma mensagem no console, marcando o início da jornada com a linguagem.
+
+## Objetivo
+
+- Criar uma classe Java com método `main`.
+- Executar o programa via terminal.
+- Exibir uma mensagem de boas-vindas.
+
+## Estrutura
+
+- `PrimeiroProjeto.java`: Classe principal que contém o método `main` e imprime uma saudação.
+
+## Como Executar
+
+1. Clone o repositório:
+   ```bash
+   git clone https://github.com/SannSerenna/tarefas-ebac-sandra.git
